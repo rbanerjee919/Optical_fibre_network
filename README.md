@@ -1,2 +1,2 @@
 # Optical_fibre_network
-Calculations to be done when creating an optical network
+Automating design calculations and decisions to be made when creating an optical network
